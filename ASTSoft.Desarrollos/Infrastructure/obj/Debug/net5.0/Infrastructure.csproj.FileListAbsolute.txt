@@ -1,0 +1,15 @@
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache

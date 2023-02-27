@@ -1,0 +1,32 @@
+﻿<nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+
+    <ul class="navbar-nav">
+        <img src="~/img/LogoFaco.png" style="width:20%" />
+    </ul>
+    <ul class="navbar-nav ml-auto">
+        <div class="displaydate">
+            <span id="date" class="ml-auto"></span>
+        </div>
+    </ul>
+</nav>
+
+<style>
+    .displaydate {
+        padding: 5px;
+    }
+</style>
+<script>
+    document.getElementById("date").innerHTML = formatAMPM();
+
+    function formatAMPM() {
+        var d = new Date(),
+            minutes = d.getMinutes().toString().length == 1 ? '0' + d.getMinutes() : d.getMinutes(),
+            hours = d.getHours().toString().length == 1 ? '0' + d.getHours() : d.getHours(),
+            ampm = d.getHours() >= 12 ? 'pm' : 'am',
+            months = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Setiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+            days = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+        return days[d.getDay()] + ' ' + ' ' + d.getDate() + ' de ' + months[d.getMonth()] + ' de ' + d.getFullYear() + ' ' + hours + ':' + minutes + ' ' + ampm;
+    }
+</script>
+
+

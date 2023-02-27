@@ -1,0 +1,12 @@
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\bin\Debug\net5.0\Services.Messaging.deps.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\bin\Debug\net5.0\Services.Messaging.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\bin\Debug\net5.0\ref\Services.Messaging.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\bin\Debug\net5.0\Services.Messaging.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.csproj.AssemblyReference.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.AssemblyInfoInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.AssemblyInfo.cs
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.csproj.CoreCompileInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\ref\Services.Messaging.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Services.Messaging\obj\Debug\net5.0\Services.Messaging.pdb

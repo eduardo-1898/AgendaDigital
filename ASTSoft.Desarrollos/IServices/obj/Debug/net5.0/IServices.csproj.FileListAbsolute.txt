@@ -1,0 +1,15 @@
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\bin\Debug\net5.0\IServices.deps.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\bin\Debug\net5.0\IServices.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\bin\Debug\net5.0\ref\IServices.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\bin\Debug\net5.0\IServices.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\bin\Debug\net5.0\Services.Messaging.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\bin\Debug\net5.0\Services.Messaging.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.csproj.AssemblyReference.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.GeneratedMSBuildEditorConfig.editorconfig
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.AssemblyInfoInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.AssemblyInfo.cs
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.csproj.CoreCompileInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.csproj.CopyComplete
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\ref\IServices.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IServices\obj\Debug\net5.0\IServices.pdb

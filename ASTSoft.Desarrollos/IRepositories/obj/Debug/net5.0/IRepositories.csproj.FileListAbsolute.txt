@@ -1,0 +1,15 @@
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\bin\Debug\net5.0\IRepositories.deps.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\bin\Debug\net5.0\IRepositories.runtimeconfig.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\bin\Debug\net5.0\IRepositories.runtimeconfig.dev.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\bin\Debug\net5.0\IRepositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\bin\Debug\net5.0\ref\IRepositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\bin\Debug\net5.0\IRepositories.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.csproj.AssemblyReference.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.AssemblyInfoInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.AssemblyInfo.cs
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.csproj.CoreCompileInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\ref\IRepositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\IRepositories\obj\Debug\net5.0\IRepositories.genruntimeconfig.cache

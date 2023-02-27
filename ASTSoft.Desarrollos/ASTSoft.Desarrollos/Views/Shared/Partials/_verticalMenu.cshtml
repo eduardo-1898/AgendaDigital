@@ -1,0 +1,35 @@
+﻿
+
+<div class="menu" style="background:#5A5C69">
+    <ul class="navbar-nav sidebar sidebar-dark accordion" id="accordionSidebar" style="background:#5A5C69">
+        <div class="d-inline-flex">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" asp-controller="Home" asp-action="Index" asp-route-Usuario="@ViewBag.Usuario">
+                <div class="sidebar-brand-text mx-3">Agenda digital</div>
+            </a>
+        </div>
+
+        <hr class="sidebar-divider my-0">
+        
+        <li class="nav-item active">
+            <a class="nav-link " asp-controller="Home" asp-action="Index" asp-route-Usuario="@ViewBag.Usuario">
+                <i class="fa fa-list"></i>
+                <span class="text">Inicio</span>
+            </a>
+        </li>
+
+        <hr class="sidebar-divider">
+
+    </ul>
+</div>
+
+<script>
+    $('#sidebarToggle').click(function () {
+        if ($(window).width() > 500) { 
+            $('.text').toggle(300);
+        } else {
+            $('.menu').animate({
+                width: 'toggle'
+            }, 350);
+        }
+    });
+</script>

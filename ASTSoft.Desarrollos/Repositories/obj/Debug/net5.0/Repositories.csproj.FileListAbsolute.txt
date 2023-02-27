@@ -1,0 +1,17 @@
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\Repositories.deps.json
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\Repositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\ref\Repositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\Repositories.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\IRepositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\Model.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\IRepositories.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\bin\Debug\net5.0\Model.pdb
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+\\fs2\Carpetas Compartidas\ASTSOFT\SQL\Desarrollos ASTSoft\Versión 6000\Agenda Digital\ASTSoft.Desarrollos\Repositories\obj\Debug\net5.0\Repositories.pdb
