@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj": {}
+    "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj": {
+    "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj",
         "projectName": "IRepositories",
-        "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj",
-        "packagesPath": "C:\\Users\\jlewis\\.nuget\\packages\\",
-        "outputPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jlewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -78,24 +79,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj": {
+    "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\jlewis\\.nuget\\packages\\",
-        "outputPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jlewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -156,24 +158,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\jlewis\\.nuget\\packages\\",
-        "outputPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jlewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,11 +191,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj": {
-                "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj"
+              "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj"
               },
-              "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj": {
-                "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj"
+              "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj"
               }
             }
           }
@@ -227,7 +230,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

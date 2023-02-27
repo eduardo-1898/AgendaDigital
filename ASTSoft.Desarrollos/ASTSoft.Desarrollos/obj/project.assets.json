@@ -11182,23 +11182,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jlewis\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\eduar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos.csproj",
       "projectName": "ASTSoft.Desarrollos",
-      "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos.csproj",
-      "packagesPath": "C:\\Users\\jlewis\\.nuget\\packages\\",
-      "outputPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos\\obj\\",
+      "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos.csproj",
+      "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\ASTSoft.Desarrollos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jlewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11213,23 +11215,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Infrastructure\\Infrastructure.csproj"
             },
-            "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj": {
-              "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj"
+            "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\IRepositories\\IRepositories.csproj"
             },
-            "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj": {
-              "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Model\\Model.csproj"
+            "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Model\\Model.csproj"
             },
-            "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj": {
-              "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj"
+            "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Repositories\\Repositories.csproj"
             },
-            "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Services.Messaging\\Services.Messaging.csproj": {
-              "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Services.Messaging\\Services.Messaging.csproj"
+            "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Services.Messaging\\Services.Messaging.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Services.Messaging\\Services.Messaging.csproj"
             },
-            "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Services\\Services.csproj": {
-              "projectPath": "\\\\fs2\\Carpetas Compartidas\\ASTSOFT\\SQL\\Desarrollos ASTSoft\\Versión 6000\\Agenda Digital\\ASTSoft.Desarrollos\\Services\\Services.csproj"
+            "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Desktop\\AgendaDigital\\ASTSoft.Desarrollos\\Services\\Services.csproj"
             }
           }
         }
@@ -11297,7 +11299,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -11306,7 +11308,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'SimpleTCP 1.0.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"SimpleTCP 1.0.24\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "SimpleTCP",
       "targetGraphs": [
         "net5.0"
